@@ -25,7 +25,7 @@ public class MyController {
 	@GetMapping("home")	
 	public String home(){
 		System.out.println("Home");
-		return "Welcome to rest API First a";
+		return "Welcome to rest API First rer ";
 	}
 	//Get the courses
 	@GetMapping("courses")
